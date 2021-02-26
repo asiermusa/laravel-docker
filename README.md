@@ -15,7 +15,7 @@ To get started, make sure you have [Docker installed](https://docs.docker.com/) 
 
 Clone this repository.
 ```bash
-git clone https://github.com/asiermusa/okalore-api.git
+git@github.com:asiermusa/laravel-docker.git
 ```
 
 Run this command to create containers and initialize the Project.
